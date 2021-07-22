@@ -21,4 +21,4 @@ sebagai contoh ataupun media pembelajaran tambahan.
   ataupun kalian dapat men-dm saya melalui instagram
   
 instagramnya <a href="https://www.instagram.com/u.wicahma/" target='_blank' >disinii..</a> wkwk
-<iframe src="https://discord.com/widget?id=695593905764171776&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
